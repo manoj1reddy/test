@@ -10,6 +10,5 @@ There are two commands to undo the unsaved fiels
 
 
 
-"this is for my commited  changes to be undo lets try"
-
-Print("This is new commited to be undo let's try !")
+"""this is for my commited  changes to be undo lets try
+Print("This is new commited to be undo let's try !")"""
