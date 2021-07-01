@@ -10,3 +10,9 @@ To go to that branch use
 
 Iam creating this file in new branch so this is not visible in main branch
 hence we easily experiment on this code without need to modify the existing code."""
+
+
+Name = input("Enter yout name")
+
+if Name == "Manoj":
+	print("WelCome Manoj Reddy !")
